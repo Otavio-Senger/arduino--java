@@ -16,10 +16,10 @@ nesse projeto usaremos o arduino, Java e c++ ele ira traduzir as seguintes palav
 Netbeans(Java) e a placa arduíno
 
 ## Instruções de Configuração
-Manual do Usuário
 
 
-Este manual explica como configurar um sistema para comunicar um Arduino com um software Java. O sistema permitirá que você digite palavras em um programa Java e veja a tradução dessas palavras em um display conectado ao Arduino.
+
+explicação de como configurar um sistema para comunicar um Arduino com um software Java. O sistema permitirá que você digite palavras em um programa Java e veja a tradução dessas palavras em um display conectado ao Arduino.
 
 Materiais Necessários:
 
